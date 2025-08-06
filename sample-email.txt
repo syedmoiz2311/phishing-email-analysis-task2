@@ -1,0 +1,19 @@
+Subject: "Important: Account Verification Required!"
+From: support@secure-paypa1.com
+To: you@example.com
+Date: August 6, 2025
+Body:
+
+Dear user,
+
+We detected unusual activity in your PayPal account. To protect your account, please verify your identity immediately.
+
+Verify Now
+
+Failure to act within 24 hours will result in account suspension.
+
+Thank you,
+PayPal Support Team
+
+Attachment: invoice_details.zip
+

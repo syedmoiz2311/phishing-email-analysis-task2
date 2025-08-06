@@ -1,0 +1,22 @@
+Spoofed Domain:
+
+The email came from secure-paypa1.com, which is a fake domain mimicking “paypal.com”.
+
+Suspicious Link:
+
+Text: “Verify Now”
+
+Real Link: https://secure-verify-paypal.com/login 
+
+Urgency & Threats:
+
+The email creates panic: “Failure to act in 24 hours will result in account suspension.”
+
+Suspicious Attachment:
+
+A .zip file named invoice_details.zip — could contain malware.
+
+Header Analysis:
+
+SPF and DKIM failed in the header analysis using MXToolbox.
+
